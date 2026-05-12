@@ -50,4 +50,4 @@ static double prozentbetrag(double grundbetrag, double prozentzahl)
 
 Diese Methode berechnet einen Prozentbetrag aus einem Grundwert.
 
-Result: 
+Result: https://github.com/ellnik/Reisepreismethode/blob/main/reisenpreis.png
